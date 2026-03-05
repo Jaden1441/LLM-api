@@ -1,0 +1,3 @@
+def get_file_content(working_directory, file_path):
+    if working_directory not in file_path:
+        
